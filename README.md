@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ROHITH M</h1>
 <h3 align="center">An enthusiastic computer science engineering student !</h3>
 
-- ⚽ I'm  studying in **Amrita School of Engineering**
+- ⚽ I'm  studying at **Amrita School of Engineering**
 
 
 
