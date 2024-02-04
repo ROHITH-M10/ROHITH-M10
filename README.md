@@ -6,7 +6,7 @@
 - ⚽ Mail me at `rohithmemail@gmail.com`
 
 - ⚽ I love to play **Football**
-- ⚽ More about me [Visit My Portfolio](https://rohithm.my.canva.site/)
+- ⚽ More about me [Visit My Portfolio](https://rohith-m10.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:
 <a href="https://instagram.com/__rohith.m__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__rohith.m__" height="30" width="40" /></a>
