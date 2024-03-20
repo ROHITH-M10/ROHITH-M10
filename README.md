@@ -32,7 +32,17 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ROHITH-M10&theme=radical&column=7&margin-w=10" alt="GitHub Trophies" style="max-width: 400px;">
 </div>
 
+
+---
+
+
 <div align="center">
-  <h3>Visitor Counter:</h3>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ROHITH-M10.visitor-badge" alt="Visitor Counter" style="max-width: 100px;">
+  <h3>Profile Views:</h3>
+  <img src="https://komarev.com/ghpvc/?username=ROHITH-M10" alt="Profile Views" style="max-width: 100px;">
 </div>
+
+<div align="center">
+  <h3>GitHub Contribution Streak:</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ROHITH-M10" alt="GitHub Contribution Streak" style="max-width: 400px;">
+</div>
+
