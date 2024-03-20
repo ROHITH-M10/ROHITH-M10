@@ -19,17 +19,17 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ROHITH-M10&show_icons=true&theme=radical" alt="Rohith M's GitHub Stats" style="max-width: 500px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ROHITH-M10&show_icons=true&theme=radical" alt="Rohith M's GitHub Stats" style="max-width: 400px;">
 </div>
 
 <div align="center">
   <h3>Top Languages:</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITH-M10&layout=compact&theme=radical" alt="Top Languages" style="max-width: 500px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITH-M10&layout=compact&theme=radical" alt="Top Languages" style="max-width: 400px;">
 </div>
 
 <div align="center">
   <h3>GitHub Trophies:</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=ROHITH-M10&theme=radical&column=7&margin-w=10" alt="GitHub Trophies" style="max-width: 800px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=ROHITH-M10&theme=radical&column=7&margin-w=10" alt="GitHub Trophies" style="max-width: 400px;">
 </div>
 
 <div align="center">
