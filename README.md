@@ -5,8 +5,6 @@
 
 <div align="center">
   <p>📧 <b>Mail:</b> <a href="mailto:rohithmemail@gmail.com">rohithmemail@gmail.com</a></p>
-  <p>🌱 <b>Currently exploring the world of computer science</b></p>
-  <p>🚀 <b>Always eager to learn and contribute to exciting projects</b></p>
   <p>🌐 <b>More about me:</b> <a href="https://rohith-m10.github.io/Portfolio/">Visit My Portfolio</a></p>
 </div>
 
@@ -20,11 +18,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ROHITH-M10&show_icons=true&theme=radical" alt="Rohith M's GitHub Stats" style="max-width: 400px;">
-</div>
-
-<div align="center">
-  <h3>Top Languages:</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITH-M10&layout=compact&theme=radical" alt="Top Languages" style="max-width: 400px;">
 </div>
 
 <div align="center">
