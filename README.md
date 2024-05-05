@@ -16,9 +16,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ROHITH-M10&show_icons=true&theme=radical" alt="Rohith M's GitHub Stats" style="max-width: 400px;">
-</div>
 
 <div align="center">
   <h3>GitHub Trophies:</h3>
